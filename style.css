@@ -318,6 +318,11 @@ section {
   font-weight: bolder;
 }
 
+.details-container p {
+  color: rgb(85, 85, 85);
+  /* font-weight: bolder; */
+}
+
 .section-container {
   gap: 4rem;
   height: 80%;
@@ -659,4 +664,7 @@ ul {
 .example-2 .icon-content a[data-social="gmail"] .filled,
 .example-2 .icon-content a[data-social="gmail"] ~ .tooltip {
   background-color: #ea4335;
+}
+
+.about-education {
 }
