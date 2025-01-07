@@ -319,8 +319,8 @@ section {
 }
 
 .details-container p {
-  color: rgb(85, 85, 85);
-  /* font-weight: bolder; */
+  color: #444;
+  font-weight: 500;
 }
 
 .section-container {
