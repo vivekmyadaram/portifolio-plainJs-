@@ -196,11 +196,13 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  font-style: italic;
 }
 
 .section__text__p2 {
-  font-size: 1.75rem;
+  font-size: 1.25rem;
   margin-bottom: 1rem;
+  font-style: italic;
 }
 
 .title {
